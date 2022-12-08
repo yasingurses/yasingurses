@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yasin Gürses</h1>
 <h3 align="center">I live in Turkey/İzmir</h3>
 
-- 🔭 I’m currently working on **Game Dev & Mobile Dev**
+- 🔭 I’m currently working on **Backend Development**
 
-- 🌱 I’m currently learning **Unity UE Flutter**
+- 🌱 I’m currently learning **.Net NodeJS**
 
 - 📫 How to reach me **lutfigurses@protonmail.com**
 
